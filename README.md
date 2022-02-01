@@ -2,6 +2,7 @@
 
 Data Science
 ------------
+* Oren Butchmits - Data Scientist Professional Training Course Practicum by Yandex (640 hours)
 * Oren Butchmits - HarvardX CS50AI Certificate - CS50AI: CS50’s Introduction to Artificial Intelligence with Python
 * Oren Butchmits - Coursera JG4ACACW5ADY - Stanford University - Machine Learning
 * Oren Butchmits - Pandas - kaggle micro-course
