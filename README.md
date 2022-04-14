@@ -21,6 +21,8 @@ Cloud
 -----
 * Oren Butchmits - AWS Training Certification - Architecting on AWS
 * Oren Butchmits - Networking in Google Cloud [Google taining]
+* Oren Butchmits - Developing on AWS
+* Oren Butchmits - Advanced Developing on AWS
 
 Cyber
 -----
