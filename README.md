@@ -28,6 +28,6 @@ Cloud
 
 Cyber
 -----
-* Oren Butchmits - AWS Training Certification - Security Engineering on AWS
-* Oren Butchmits - Security in Google Cloud [Google taining]
+* Oren Butchmits - AWS - Security Engineering on AWS
+* Oren Butchmits - GCP - Security in Google Cloud
 
