@@ -19,10 +19,12 @@ Digital Forensics / OSINT
 
 Cloud
 -----
-* Oren Butchmits - AWS Training Certification - Architecting on AWS
-* Oren Butchmits - Networking in Google Cloud [Google taining]
-* Oren Butchmits - Developing on AWS
-* Oren Butchmits - Advanced Developing on AWS
+* Oren Butchmits - AWS - Architecting on AWS
+* Oren Butchmits - GCP - Networking in Google Cloud
+* Oren Butchmits - AWS - Developing on AWS
+* Oren Butchmits - AWS - Advanced Developing on AWS
+* Oren Butchmits - GCP - Developing Applications with Google Cloud Platform
+* Oren Butchmits - GCP - Google cloud Big data and ML fundamentals
 
 Cyber
 -----
