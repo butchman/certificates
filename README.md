@@ -31,3 +31,7 @@ Cyber
 * Oren Butchmits - AWS - Security Engineering on AWS
 * Oren Butchmits - GCP - Security in Google Cloud
 
+SIEM/SOAR
+-----
+* Oren Butchmits - GCP - Chronicle SIEM Fundamentals
+
