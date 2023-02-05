@@ -34,4 +34,4 @@ Cyber
 SIEM/SOAR
 -----
 * Oren Butchmits - Chronicle SIEM Fundamentals (https://learn.chronicle.security/certificates/fpq96kk8nz)
-* Oren Butchmits - Chronicle CertiØed SOAR Operator (CCSO) (https://learn.chronicle.security/certificates/liackcamr0)
+* Oren Butchmits - Chronicle Certited SOAR Operator (CCSO) (https://learn.chronicle.security/certificates/liackcamr0)
