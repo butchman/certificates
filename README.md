@@ -10,6 +10,10 @@ Data Science
 * Oren Butchmits - Intermediate Machine Learning - kaggle micro-course
 * Oren Butchmits - Kaggle - competitive data science - predict future sales (https://www.kaggle.com/c/competitive-data-science-predict-future-sales)
 
+Blockchain
+----------
+* Oren Butchmits - Blockchain A-Z™ Learn Blockchain, Cryptos & Smart Contracts [udemy] (https://www.udemy.com/certificate/UC-430f3365-a0d8-446a-859d-4e7c9d62b11a/)
+  
 Digital Forensics / OSINT 
 -------------------------
 * Oren Butchmits - 2020-05-25 - Autopsy Basics and Hands On
