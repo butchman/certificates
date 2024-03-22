@@ -13,6 +13,11 @@ Data Science
 Blockchain
 ----------
 * Oren Butchmits - Blockchain A-Z™ Learn Blockchain, Cryptos & Smart Contracts [udemy] (https://www.udemy.com/certificate/UC-430f3365-a0d8-446a-859d-4e7c9d62b11a/)
+
+ICS / OT
+----------
+* ICSJWG Session 3 - Cybersecurity Differences within IT and ICS Domains
+* ICSJWG Session 4 - Cyber Risks to Industrial Control Systems
   
 Digital Forensics / OSINT 
 -------------------------
