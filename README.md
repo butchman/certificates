@@ -9,6 +9,7 @@ Data Science
 * Oren Butchmits - Intro to Machine Learning - kaggle micro-course
 * Oren Butchmits - Intermediate Machine Learning - kaggle micro-course
 * Oren Butchmits - Kaggle - competitive data science - predict future sales (https://www.kaggle.com/c/competitive-data-science-predict-future-sales)
+* Oren Butchmits - SANS - SEC595 / Applied Data Science & AI/Machine Learning for Cybersecurity Professionals (I01_02_CM_8870)
 
 Blockchain
 ----------
