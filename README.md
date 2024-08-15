@@ -35,6 +35,7 @@ Cloud
 * Oren Butchmits - AWS - Advanced Developing on AWS
 * Oren Butchmits - GCP - Developing Applications with Google Cloud Platform
 * Oren Butchmits - GCP - Google cloud Big data and ML fundamentals
+* oren butchmits - GCP - Vertex AI Search and Conversation
 
 Cyber
 -----
