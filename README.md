@@ -37,6 +37,7 @@ Cloud
 * Oren Butchmits - GCP - Google cloud Big data and ML fundamentals
 * oren butchmits - GCP - Vertex AI Search and Conversation
 * oren butchmits - CCSK v4.1 - Foundation Instructor Led Training
+* oren butchmits - GCP - Application Development with LLMs on Google
 
 Cyber
 -----
